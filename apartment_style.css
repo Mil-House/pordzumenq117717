@@ -11,7 +11,6 @@
 @media screen and (dispay-mode: standalone)
 {
     header {
-        top: 40px !important;
         height: 88px !important;
     }
 }
