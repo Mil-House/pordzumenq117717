@@ -8,6 +8,13 @@
 }
 */
 
+@media screen and (dispay-mode: standalone)
+{
+    header {
+        height: 88px !important;
+    }
+}
+
 @keyframes load {
     0% {
         opacity: 0.08;
